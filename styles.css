@@ -1,0 +1,53 @@
+body{
+  background-color: black;
+  color: white;
+  margin-top: 15%;
+  margin-left: 8%;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.login{
+  /* padding: 14px 20px; */
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-color: yellow;
+  color: white;
+  margin: 2% 3%;
+  margin-left: 10px;
+}
+.sign{
+  /* padding: 14px 20px; */
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-color: yellow;
+  color: black;
+  background-color: yellow;
+}
+.abc{
+  background-color: white;
+  color: black;
+  margin: -7px;
+  padding: 10px 20px;
+
+
+}
+.ent{
+  background-color: black;
+  border-color: white;
+  color:white;
+  padding: 10px 20px;
+}
+.next{
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-color: yellow;
+  color: black;
+  background-color: yellow;
+  margin-left: 100px;
+}
